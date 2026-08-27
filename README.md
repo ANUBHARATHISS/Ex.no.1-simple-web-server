@@ -1,6 +1,6 @@
 
 ## Ex 01 -Simple Web Server using Spring Boot
-## Name: ANUBHARATHI SS
+## NAME: ANUBHARATHI SS
 ## REG NO: 212223040017
 ## AIM:
 To develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints.
