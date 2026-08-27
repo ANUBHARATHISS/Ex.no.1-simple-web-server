@@ -109,10 +109,8 @@ public class DemoApplication {
 
 ### HelloController.java
 package com.example.demo;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 @RestController
 public class HelloController {
 
@@ -124,12 +122,15 @@ public class HelloController {
 
 
 ### application.properties:
-
- server.port=8081
+server.port=8081
 
 
 
 
 Output:
+
+<img width="1612" height="782" alt="image" src="https://github.com/user-attachments/assets/f2180da5-b816-4970-9a25-0de64c3ca412" />
+
+
 
 
