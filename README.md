@@ -131,10 +131,11 @@ public class HelloController {
  server.port=8080
 ```
 
-
-
 ### Output:
 <img width="1567" height="473" alt="image" src="https://github.com/user-attachments/assets/ecd24251-053b-45e2-8214-3264620170c5" />
+
+### Result:
+Thus, the Simple Web Server was successfully developed using Spring Boot. The application was able to handle basic HTTP requests through RESTful endpoints and return appropriate responses for the requested URLs.
 
 
 
